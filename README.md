@@ -40,7 +40,7 @@ Here are some screenshots of the application in use:
    ![Homepage Screenshot](images/homepage.png)
 
 2. **Website when Uploaded Images**:
-   ![Website when Uploaded Images](images/whileuploadng.png)
+   ![Website when Uploaded Images](images/whileuploading.png)
    ![Website when Uploaded Imagest](/images/firstimageuploaded.png)
 
 3. **Stored Images**:
